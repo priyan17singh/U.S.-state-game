@@ -39,3 +39,10 @@ This is an interactive **U.S. States Guessing Game** built using **Python**, **T
 
 ```bash
 python us-states-game.py
+
+## 👤 Author
+
+Priyanshu Singh
+[Priyanshu Singh](https://github.com/priyan17singh)
+
+Feel free to fork this project, improve it, and have fun coding!
