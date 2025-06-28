@@ -31,6 +31,8 @@ This is an interactive **U.S. States Guessing Game** built using **Python**, **T
    - `50_states.csv` (contains state names and coordinates)
    - `blank_states_img.gif` (map of the U.S.)
 
+---
+
 ## 📸 Preview
 
 ![Game Screenshot](us-state-game.jpg)
@@ -40,9 +42,13 @@ This is an interactive **U.S. States Guessing Game** built using **Python**, **T
 ```bash
 python us-states-game.py
 
+---
+
 ## 👤 Author
 
-Priyanshu Singh
-[Priyanshu Singh](https://github.com/priyan17singh)
+**Priyanshu Singh**
+Github: [priyan17singh](https://github.com/priyan17singh)
 
-Feel free to fork this project, improve it, and have fun coding!
+---
+
+ - Feel free to fork this project, improve it, and have fun coding!
