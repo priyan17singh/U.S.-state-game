@@ -1,54 +1,46 @@
-# 🗺️ U.S. State Game (Python Turtle + Pandas)
+# 🗺️ U.S. State Game - Python Turtle Project
 
-This is an interactive **U.S. States Guessing Game** built using **Python**, **Turtle**, and **Pandas**. The player is shown a blank map of the United States and is asked to guess the names of all 50 U.S. states. When a correct guess is made, the state's name appears at the correct location on the map.
+The **U.S. State Game** is a fun and educational geography quiz built using Python's `turtle` graphics and `pandas`. Your task is to correctly guess all 50 U.S. states. Each correct guess displays the state’s name in its correct location on a blank map of the U.S. A CSV file is also generated at the end showing which states you missed!
 
----
+## 🎮 Features
 
-## 🎯 Features
+- Interactive blank U.S. map
+- Type-based state name input
+- Auto-placement of correct guesses on the map
+- Tracks the score (number of correct states)
+- Outputs a list of missed states as a `.csv` file for further learning
 
-- Interactive GUI with a blank map of the U.S.
-- Type-based guessing of states
-- Automatically labels correct guesses on the map
-- Keeps track of score / number of correct guesses
-- At the end, outputs a CSV file of states you missed for further learning!
+## 🛠️ Technologies Used
 
----
+- Python 3.2.9
+- Turtle Graphics Module
+- Pandas for data management
+- CSV for missed states export
 
-## 🧰 Technologies Used
+## 📚 Concepts Covered
 
-- **Python 3.2.9**
-- `turtle` – for GUI and drawing the map
-- `pandas` – for managing state data and missed states
-- `csv` – to save unguessed states
-
----
-
-## ▶️ How to Run
-
-1. Clone or download the repo
-2. Make sure you have the following files:
-   - `us-states-game.py`
-   - `50_states.csv` (contains state names and coordinates)
-   - `blank_states_img.gif` (map of the U.S.)
-
----
+- GUI with Turtle graphics
+- Data handling with Pandas
+- File I/O operations with CSV
+- String matching and user input
+- Game loop with exit handling
 
 ## 📸 Preview
 
-![Game Screenshot](us-state-game.jpg)
+![U.S. State Game Preview](us-state-game.jpg)
 
-3. Run the game:
+## ✅ Possible Improvements
 
-```bash
-python us-states-game.py
-
----
+- Add a timer or countdown for added difficulty
+- Provide hints or region-based filtering
+- Implement sound effects or animations
+- Display a final performance summary visually on the map
 
 ## 👤 Author
 
-**Priyanshu Singh**
-Github: [priyan17singh](https://github.com/priyan17singh)
+**Priyanshu Singh**  
+GitHub: [priyan17singh](https://github.com/priyan17singh)
 
 ---
 
- - Feel free to fork this project, improve it, and have fun coding!
+Feel free to fork this project, improve it, and have fun coding!
